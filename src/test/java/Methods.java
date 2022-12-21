@@ -13,12 +13,23 @@ public class Methods {
 		
 
 	}
+	private void seco() {
+		// TODO Auto-generated method stub
+
+	}
 	private void fourth() {
 		
 		System.out.println("Moeth");
 
 	}
+	private void fifth() {
+		// TODO Auto-generated method stub
 
+	}
+	private void sixth() {
+		// TODO Auto-generated method stub
+
+	}
 	
 	
 }
