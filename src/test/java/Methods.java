@@ -8,5 +8,17 @@ public class Methods {
 		System.out.println("second");
 
 	}
+	
+	private void third() {
+		
 
+	}
+	private void fourth() {
+		
+		System.out.println("Moeth");
+
+	}
+
+	
+	
 }
